@@ -19,8 +19,12 @@ input a positive integer for the size of sub-graphs
 input your graph in the formmat:
 
 node space node (enter)
+
 node space node (enter)
+
 ...
+
 enter at the end
+
 
 the code uses NetworkX Python package
